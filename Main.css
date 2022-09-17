@@ -79,6 +79,19 @@ h4 {
     box-shadow: 5px 5px gray;
 }
 
+.btn21 {
+    width: 100px;
+    height: 25px;
+    text-align: center;
+    padding:5px;
+    background-color: PaleTurquoise;
+    display: block;
+    text-decoration: none;
+    color: black;
+    background: linear-gradient(LightPink, LightSkyBlue);
+    box-shadow: 5px 5px gray;
+}
+
 div{
     display: flex;
     justify-content: center;
