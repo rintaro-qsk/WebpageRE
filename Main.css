@@ -39,7 +39,8 @@ h4 {
     color: black;
     background: linear-gradient(LightPink, LightSkyBlue);
     box-shadow: 5px 5px gray;
-    margin-right: 20px;
+    margin-right: 17px;
+    border-radius: 20px;
 }
 
 .btn12 {
@@ -54,12 +55,13 @@ h4 {
     color: black;
     background: linear-gradient(LightPink, LightSkyBlue);
     box-shadow: 5px 5px gray;
-    margin-right: 20px;
+    margin-right: 17px;
+    border-radius: 20px;
 }
 
 .btn13 {
     font-size: 200%;
-    width: 380px;
+    width: 400px;
     height: 40px;
     text-align: center;
     padding:5px;
@@ -69,7 +71,8 @@ h4 {
     color: black;
     background: linear-gradient(LightPink, LightSkyBlue);
     box-shadow: 5px 5px gray;
-    margin-right: 20px;
+    margin-right: 17px;
+    border-radius: 20px;
 }
 
 .btn14 {
@@ -84,6 +87,7 @@ h4 {
     color: black;
     background: linear-gradient(LightPink, LightSkyBlue);
     box-shadow: 5px 5px gray;
+    border-radius: 20px;
 }
 
 .btn21 {
@@ -99,6 +103,7 @@ h4 {
     background: linear-gradient(rgb(252, 199, 114), rgb(135, 251, 147));
     box-shadow: 5px 5px gray;
     margin-right: 15px;
+    border-radius: 15px;
 }
 
 .btn22 {
@@ -114,6 +119,7 @@ h4 {
     background: linear-gradient(rgb(252, 199, 114), rgb(135, 251, 147));
     box-shadow: 5px 5px gray;
     margin-right: 15px;
+    border-radius: 15px;
 }
 
 .btn23 {
@@ -129,6 +135,7 @@ h4 {
     background: linear-gradient(rgb(252, 199, 114), rgb(135, 251, 147));
     box-shadow: 5px 5px gray;
     margin-right: 15px;
+    border-radius: 15px;
 }
 
 .btn24 {
@@ -143,6 +150,7 @@ h4 {
     color: black;
     background: linear-gradient(rgb(252, 199, 114), rgb(135, 251, 147));
     box-shadow: 5px 5px gray;
+    border-radius: 15px;
 }
 
 div{
