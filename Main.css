@@ -26,3 +26,60 @@ h4 {
     background: #ffe8f8;                
     padding:5px;                        
 }
+
+.btn11 {
+    width: 100px;
+    height: 25px;
+    text-align: center;
+    padding:5px;
+    background-color: PaleTurquoise;
+    display: block;
+    text-decoration: none;
+    color: black;
+    background: linear-gradient(LightPink, LightSkyBlue);
+    box-shadow: 5px 5px gray;
+}
+
+.btn12 {
+    width: 100px;
+    height: 25px;
+    text-align: center;
+    padding:5px;
+    background-color: PaleTurquoise;
+    display: block;
+    text-decoration: none;
+    color: black;
+    background: linear-gradient(LightPink, LightSkyBlue);
+    box-shadow: 5px 5px gray;
+}
+
+.btn13 {
+    width: 220px;
+    height: 25px;
+    text-align: center;
+    padding:5px;
+    background-color: PaleTurquoise;
+    display: block;
+    text-decoration: none;
+    color: black;
+    background: linear-gradient(LightPink, LightSkyBlue);
+    box-shadow: 5px 5px gray;
+}
+
+.btn14 {
+    width: 100px;
+    height: 25px;
+    text-align: center;
+    padding:5px;
+    background-color: PaleTurquoise;
+    display: block;
+    text-decoration: none;
+    color: black;
+    background: linear-gradient(LightPink, LightSkyBlue);
+    box-shadow: 5px 5px gray;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
