@@ -3,7 +3,8 @@ body {
 }
 
 h1 { 
-    background: #a1e2fe;                
+    background: #000000; 
+    color: #ffffff;               
     padding:5px;                        
 }
 
